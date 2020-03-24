@@ -122,7 +122,17 @@
   },
   {
     "ModuleName": "39ae35f5-de28-40a9-be9f-ff8adef64027",
-    "ModuleType": 10
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\AronChen",
+      "Email": "GRAPECITY\\AronChen@forguncy"
+    },
+    "LockDateTime": "2020-03-24T11:11:24.3034401+08:00",
+    "ModuleType": 10,
+    "ToRemoveFiles": [
+      "image\\fgc_logo_dark.png",
+      "image\\fgc_logo_light.png"
+    ]
   },
   {
     "ModuleName": "396e6eb8-d825-4457-85fe-f7367f51b11b",
