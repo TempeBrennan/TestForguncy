@@ -5,16 +5,61 @@
   "Cols": {
     "Count": 60
   },
+  "Values": {
+    "9,19": "拉拉拉拉哦啦啦啦啦"
+  },
+  "AttachInfos": {
+    "9,19": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, Forguncy",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, Forguncy"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "CellDefaultValue": "拉拉拉拉哦啦啦啦啦"
+      }
+    }
+  },
   "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0,
+        "Formatter": 1
+      }
+    ],
     "Types": {
       "Strs": [
+        "#FFFFFF00",
+        "@",
         "Body"
       ]
     },
+    "CellStyles": {
+      "9,19": 0
+    },
     "SheetStyle": {
-      "FontFamily": 0
+      "FontFamily": 2
     }
   },
+  "Spans": [
+    "9,19,6,14"
+  ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
