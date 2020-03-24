@@ -81,7 +81,16 @@
   },
   {
     "ModuleName": "页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\AronChen",
+      "Email": "GRAPECITY\\AronChen@forguncy"
+    },
+    "LockDateTime": "2020-03-24T10:46:49.3422105+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json"
+    ]
   },
   {
     "ModuleName": "FGC_母版页",
