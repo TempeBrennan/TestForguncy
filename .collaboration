@@ -188,5 +188,25 @@
   {
     "ModuleName": "页面3",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "表1_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\AronChen",
+      "Email": "GRAPECITY\\AronChen@forguncy"
+    },
+    "LockDateTime": "2020-03-24T10:51:14.6425518+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "表1_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\AronChen",
+      "Email": "GRAPECITY\\AronChen@forguncy"
+    },
+    "LockDateTime": "2020-03-24T10:51:14.6425518+08:00",
+    "ModuleType": 1
   }
 ]
