@@ -81,16 +81,7 @@
   },
   {
     "ModuleName": "页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\AronChen",
-      "Email": "GRAPECITY\\AronChen@forguncy"
-    },
-    "LockDateTime": "2020-03-24T10:49:54.8882683+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_母版页",
@@ -117,19 +108,7 @@
   },
   {
     "ModuleName": "2ddfe471-dd9c-4782-a3b4-3b67f963a6cb",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\AronChen",
-      "Email": "GRAPECITY\\AronChen@forguncy"
-    },
-    "LockDateTime": "2020-03-24T10:49:14.756634+08:00",
-    "ModuleType": 9,
-    "ToRemoveFiles": [
-      "Theme\\CellTypeStyles",
-      "Theme\\ListViewStyles",
-      "Theme\\StyleDefaultNames",
-      "Theme\\ThemeConfig"
-    ]
+    "ModuleType": 9
   },
   {
     "ModuleName": "39ae35f5-de28-40a9-be9f-ff8adef64027",
@@ -153,16 +132,7 @@
   },
   {
     "ModuleName": "f136f31a-5285-4164-b8e6-6a822fdf27bd",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\AronChen",
-      "Email": "GRAPECITY\\AronChen@forguncy"
-    },
-    "LockDateTime": "2020-03-24T10:55:01.7535402+08:00",
-    "ModuleType": 15,
-    "ToRemoveFiles": [
-      "ServerCommand"
-    ]
+    "ModuleType": 15
   },
   {
     "ModuleName": "页面2",
@@ -176,26 +146,6 @@
   },
   {
     "ModuleName": "页面3",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "表1_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\AronChen",
-      "Email": "GRAPECITY\\AronChen@forguncy"
-    },
-    "LockDateTime": "2020-03-24T10:51:14.6425518+08:00",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "表1_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\AronChen",
-      "Email": "GRAPECITY\\AronChen@forguncy"
-    },
-    "LockDateTime": "2020-03-24T10:51:14.6425518+08:00",
     "ModuleType": 1
   }
 ]
