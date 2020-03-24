@@ -176,16 +176,6 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "UIAppearance_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "DESKTOP-1C1443A\\lilyyang",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2020-03-24T10:32:39.6888188+08:00",
-    "ModuleType": 1
-  },
-  {
     "ModuleName": "页面3",
     "ModuleType": 1
   },
