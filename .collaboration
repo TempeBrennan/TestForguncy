@@ -153,7 +153,16 @@
   },
   {
     "ModuleName": "f136f31a-5285-4164-b8e6-6a822fdf27bd",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\AronChen",
+      "Email": "GRAPECITY\\AronChen@forguncy"
+    },
+    "LockDateTime": "2020-03-24T10:55:01.7535402+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommand"
+    ]
   },
   {
     "ModuleName": "页面2",
